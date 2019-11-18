@@ -351,3 +351,46 @@ hostname: stu8-63
 pid: 4572
 hostname: stu8-63
 
+2019-11-18 09:17:18,935 ERROR 3596 [egg-mongoose] mongodb://127.0.0.1/shoppingMall disconnected
+2019-11-18 09:19:12,366 ERROR 3596 [-/127.0.0.1/-/6ms GET /] nodejs.MongoError: pool destroyed
+    at Pool.write (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\core\connection\pool.js:831:8)
+    at _command (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\core\wireprotocol\command.js:107:10)
+    at command (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\core\wireprotocol\command.js:25:5)
+    at Object.query (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\core\wireprotocol\query.js:57:3)
+    at Server.query (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\core\topologies\server.js:639:16)
+    at FindOperation.execute (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\operations\find.js:24:12)
+    at C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\operations\execute_operation.js:163:17
+    at Server.selectServer (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\core\topologies\server.js:827:3)
+    at Server.selectServer (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\topologies\topology_base.js:363:32)
+    at executeWithServerSelection (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\operations\execute_operation.js:150:12)
+    at executeOperation (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\operations\execute_operation.js:81:16)
+    at Cursor._initializeCursor (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\core\cursor.js:545:7)
+    at Cursor._initializeCursor (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\cursor.js:191:11)
+    at nextFunction (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\core\cursor.js:748:10)
+    at Cursor._next (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\core\cursor.js:202:5)
+    at fetchDocs (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\operations\to_array.js:27:14)
+name: "MongoError"
+pid: 3596
+hostname: stu003
+
+2019-11-18 09:19:39,679 ERROR 3596 [-/127.0.0.1/-/3ms GET /] nodejs.MongoError: pool destroyed
+    at Pool.write (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\core\connection\pool.js:831:8)
+    at _command (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\core\wireprotocol\command.js:107:10)
+    at command (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\core\wireprotocol\command.js:25:5)
+    at Object.query (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\core\wireprotocol\query.js:57:3)
+    at Server.query (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\core\topologies\server.js:639:16)
+    at FindOperation.execute (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\operations\find.js:24:12)
+    at C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\operations\execute_operation.js:163:17
+    at Server.selectServer (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\core\topologies\server.js:827:3)
+    at Server.selectServer (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\topologies\topology_base.js:363:32)
+    at executeWithServerSelection (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\operations\execute_operation.js:150:12)
+    at executeOperation (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\operations\execute_operation.js:81:16)
+    at Cursor._initializeCursor (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\core\cursor.js:545:7)
+    at Cursor._initializeCursor (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\cursor.js:191:11)
+    at nextFunction (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\core\cursor.js:748:10)
+    at Cursor._next (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\core\cursor.js:202:5)
+    at fetchDocs (C:\Users\Administrator\Desktop\shopping\server\node_modules\_mongodb@3.3.4@mongodb\lib\operations\to_array.js:27:14)
+name: "MongoError"
+pid: 3596
+hostname: stu003
+

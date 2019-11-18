@@ -34,7 +34,9 @@
         :key="index"
         content="one"
       >
-        <img :src="item.image" alt="l" class="imgs" />
+        <div v-if="item.image">
+          <img :src="item.image" alt="l" class="imgs" />
+        </div>
       </van-swipe-item>
     </van-swipe>
     <!--    导航菜单-->
@@ -45,11 +47,13 @@
           :key="index"
           @click="click(item.mallCategoryId)"
         >
-          <img :src="item.image" alt="index" class="category" />
-          <div>{{ item.mallCategoryName }}</div>
+          <div v-if="item.image">
+            <img :src="item.image" alt="index" class="category" />
+            <div>{{ item.mallCategoryName }}</div>
+          </div>
         </li>
       </ul>
-      <div class="shell">
+      <div class="shell" v-if="data.advertesPicture">
         <img :src="data.advertesPicture.PICTURE_ADDRESS" alt="" class="log" />
       </div>
     </div>

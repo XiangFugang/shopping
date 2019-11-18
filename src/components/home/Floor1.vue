@@ -2,22 +2,28 @@
   <div id="Floor1">
     <div class="Floor1_top">
       <div class="Floor1_top_lfte">1F</div>
-      <div class="Floor1_top_text">{{floorName.floor1}}</div>
+      <div class="Floor1_top_text">{{ floorName.floor1 }}</div>
     </div>
     <div class="Floor1_map">
       <div class="Floor1_map_top">
-        <div class="Fruitdrop"><img :src=floor1[0].image alt="水果糖" /></div>
+        <div class="Fruitdrop" v-if="floor1[0]">
+          <img :src="floor1[0].image" alt="水果糖" />
+        </div>
         <div class="snacks">
-          <div class="Cookies"><img :src=floor1[1].image alt="" /></div>
-          <div class="Cake"><img :src=floor1[2].image alt="" /></div>
+          <div class="Cookies" v-if="floor1[1]">
+            <img :src="floor1[1].image" alt="" />
+          </div>
+          <div class="Cake" v-if="floor1[2]">
+            <img :src="floor1[2].image" alt="" />
+          </div>
         </div>
       </div>
       <div class="Floor1_map_bottom">
-        <div class="Floor1_map_bottom_left">
-          <img :src=floor1[3].image alt="">
+        <div class="Floor1_map_bottom_left" v-if="floor1[3]">
+          <img :src="floor1[3].image" alt="" />
         </div>
-        <div class="Floor1_map_bottom_rgiht">
-          <img :src=floor1[4].image alt="">
+        <div class="Floor1_map_bottom_rgiht" v-if="floor1[4]">
+          <img :src="floor1[4].image" alt="" />
         </div>
       </div>
     </div>
@@ -32,7 +38,7 @@ export default {
   data() {
     return {
       floor1: [],
-      floorName:{}
+      floorName: {}
     };
   },
   methods: {
@@ -87,8 +93,8 @@ export default {
     display: flex;
     .Fruitdrop {
       width: 49%;
-      border-right:2px solid #f2f2f2 ;
-      border-bottom:2px solid #f2f2f2  ;
+      border-right: 2px solid #f2f2f2;
+      border-bottom: 2px solid #f2f2f2;
       img {
         width: 100%;
       }
@@ -97,32 +103,31 @@ export default {
   .snacks {
     width: 50%;
     .Cookies {
-      border-bottom:2px solid #f2f2f2  ;
+      border-bottom: 2px solid #f2f2f2;
       img {
         width: 100%;
       }
     }
     .Cake {
-      border-bottom:2px solid #f2f2f2  ;
+      border-bottom: 2px solid #f2f2f2;
       img {
         width: 100%;
-
       }
     }
   }
 }
-.Floor1_map_bottom{
+.Floor1_map_bottom {
   display: flex;
-  .Floor1_map_bottom_left{
-    width:49% ;
-    border-right:2px solid #f2f2f2 ;
-    img{
+  .Floor1_map_bottom_left {
+    width: 49%;
+    border-right: 2px solid #f2f2f2;
+    img {
       width: 100%;
     }
   }
-  .Floor1_map_bottom_rgiht{
+  .Floor1_map_bottom_rgiht {
     width: 50%;
-    img{
+    img {
       width: 100%;
     }
   }

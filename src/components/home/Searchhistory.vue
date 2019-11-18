@@ -27,18 +27,20 @@
         <div @click="close(item)" class="Label">{{ item }}</div>
       </div>
     </div>
-   <div>
-     <div @click="Eliminate" class="icon" v-if="arr.length > 0">
-       <van-icon name="delete" size="30px" />
-     </div>
-     <div v-else></div>
-   </div>
+    <div>
+      <div @click="Eliminate" class="icon" v-if="arr.length > 0">
+        <van-icon name="delete" size="30px" />
+      </div>
+      <div v-else></div>
+    </div>
     <div v-for="(item, index) in list" :key="index" class="loop_li">
-      <van-card :price="item.present_price" :thumb="item.image">
-        <div slot="title">
-          <div v-html="item.name"></div>
-        </div>
-      </van-card>
+      <div v-if="item.image">
+        <van-card :price="item.present_price" :thumb="item.image">
+          <div slot="title">
+            <div v-html="item.name"></div>
+          </div>
+        </van-card>
+      </div>
     </div>
   </div>
 </template>

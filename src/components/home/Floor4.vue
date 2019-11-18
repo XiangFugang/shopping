@@ -7,7 +7,9 @@
     </div>
     <div class="Floor4">
       <div v-for="(item, index) in hotGoods" :key="index" class="Sellwell">
-        <img :src="item.image" alt="" />
+        <div v-if="item.image">
+          <img :src="item.image" alt="" />
+        </div>
         <div class="text">{{item.name}}</div>
         <div class="Price">
           <div class="Originalprice">￥{{item.mallPrice}}</div>

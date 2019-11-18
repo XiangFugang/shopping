@@ -6,17 +6,17 @@
     </div>
     <div class="Floor1_map">
       <div class="Floor1_map_top">
-        <div class="Fruitdrop"><img :src="floor3[0].image" alt="水果糖" /></div>
+        <div class="Fruitdrop" v-if="floor3[0]"><img :src="floor3[0].image" alt="水果糖" /></div>
         <div class="snacks">
-          <div class="Cookies"><img :src="floor3[1].image" alt="" /></div>
-          <div class="Cake"><img :src="floor3[2].image" alt="" /></div>
+          <div class="Cookies" v-if="floor3[1]"><img :src="floor3[1].image" alt="" /></div>
+          <div class="Cake" v-if="floor3[2]"><img :src="floor3[2].image" alt="" /></div>
         </div>
       </div>
       <div class="Floor1_map_bottom">
-        <div class="Floor1_map_bottom_left">
+        <div class="Floor1_map_bottom_left" v-if="floor3[3]">
           <img :src="floor3[3].image" alt="" />
         </div>
-        <div class="Floor1_map_bottom_rgiht">
+        <div class="Floor1_map_bottom_rgiht" v-if="floor3[4]">
           <img :src="floor3[4].image" alt="" />
         </div>
       </div>

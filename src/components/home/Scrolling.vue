@@ -8,7 +8,9 @@
           :key="index"
           class="Scrolling_center_li"
         >
-          <img class="Scrolling_center_img" :src="item.image" alt="index" />
+          <div>
+            <img class="Scrolling_center_img" :src="item.image" alt="index" />
+          </div>
           <div class="Scrolling_center_Title">{{ item.goodsName }}</div>
           <div class="Scrolling_center_Discount">
             <div class="Scrolling_center_Original">￥{{ item.mallPrice }}</div>

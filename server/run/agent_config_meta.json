@@ -1,322 +1,322 @@
 {
-  "keys": "D:\\shopping\\shopping\\server\\config\\config.default.js",
-  "middleware": "D:\\shopping\\shopping\\server\\config\\config.default.js",
+  "keys": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js",
+  "middleware": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js",
   "cluster": {
     "listen": {
-      "path": "D:\\shopping\\shopping\\server\\config\\config.default.js",
-      "port": "D:\\shopping\\shopping\\server\\config\\config.default.js",
-      "hostname": "D:\\shopping\\shopping\\server\\config\\config.default.js"
+      "path": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js",
+      "port": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js",
+      "hostname": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js"
     }
   },
   "view": {
     "mapping": {
-      ".html": "D:\\shopping\\shopping\\server\\config\\config.default.js"
+      ".html": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js"
     },
-    "root": "D:\\shopping\\shopping\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
-    "cache": "D:\\shopping\\shopping\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
-    "defaultExtension": "D:\\shopping\\shopping\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
-    "defaultViewEngine": "D:\\shopping\\shopping\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js"
+    "root": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "cache": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
+    "defaultExtension": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js"
   },
   "mongoose": {
     "client": {
-      "url": "D:\\shopping\\shopping\\server\\config\\config.default.js",
-      "options": "D:\\shopping\\shopping\\server\\config\\config.default.js"
+      "url": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js",
+      "options": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js"
     },
-    "open": "D:\\shopping\\shopping\\server\\config\\config.default.js",
-    "url": "D:\\shopping\\shopping\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
-    "options": "D:\\shopping\\shopping\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
-    "plugins": "D:\\shopping\\shopping\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
-    "loadModel": "D:\\shopping\\shopping\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
-    "app": "D:\\shopping\\shopping\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
-    "agent": "D:\\shopping\\shopping\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js"
+    "open": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js",
+    "url": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
+    "options": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
+    "plugins": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
+    "loadModel": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
+    "app": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
+    "agent": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js"
   },
   "security": {
-    "csrf": "D:\\shopping\\shopping\\server\\config\\config.default.js",
-    "domainWhiteList": "D:\\shopping\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-    "protocolWhiteList": "D:\\shopping\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-    "defaultMiddleware": "D:\\shopping\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+    "csrf": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js",
+    "domainWhiteList": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
     "xframe": {
-      "enable": "D:\\shopping\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-      "value": "D:\\shopping\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     },
     "hsts": {
-      "enable": "D:\\shopping\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.local.js",
-      "maxAge": "D:\\shopping\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-      "includeSubdomains": "D:\\shopping\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.local.js",
+      "maxAge": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "includeSubdomains": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     },
     "dta": {
-      "enable": "D:\\shopping\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     },
     "methodnoallow": {
-      "enable": "D:\\shopping\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     },
     "noopen": {
-      "enable": "D:\\shopping\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     },
     "nosniff": {
-      "enable": "D:\\shopping\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     },
     "referrerPolicy": {
-      "enable": "D:\\shopping\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-      "value": "D:\\shopping\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     },
     "xssProtection": {
-      "enable": "D:\\shopping\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-      "value": "D:\\shopping\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     },
     "csp": {
-      "enable": "D:\\shopping\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-      "policy": "D:\\shopping\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "policy": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "D:\\shopping\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-      "checkAddress": "D:\\shopping\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+      "ipBlackList": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "checkAddress": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     }
   },
   "session": {
-    "key": "D:\\shopping\\shopping\\server\\config\\config.default.js",
-    "maxAge": "D:\\shopping\\shopping\\server\\config\\config.default.js",
-    "overwrite": "D:\\shopping\\shopping\\server\\config\\config.default.js",
-    "httpOnly": "D:\\shopping\\shopping\\server\\config\\config.default.js",
-    "signed": "D:\\shopping\\shopping\\server\\config\\config.default.js",
-    "rolling": "D:\\shopping\\shopping\\server\\config\\config.default.js",
-    "renew": "D:\\shopping\\shopping\\server\\config\\config.default.js",
-    "encrypt": "D:\\shopping\\shopping\\server\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js"
+    "key": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js",
+    "maxAge": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js",
+    "overwrite": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js",
+    "httpOnly": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js",
+    "signed": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js",
+    "rolling": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js",
+    "renew": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js",
+    "encrypt": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js"
   },
   "bodyParser": {
-    "jsonLimit": "D:\\shopping\\shopping\\server\\config\\config.default.js",
-    "enable": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "encoding": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "formLimit": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "textLimit": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "strict": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "jsonLimit": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js",
+    "enable": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "formLimit": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "textLimit": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "strict": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
     "queryString": {
-      "arrayLimit": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "depth": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "parameterLimit": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+      "arrayLimit": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "depth": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "parameterLimit": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
     },
-    "onerror": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    "onerror": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
   },
   "jwt": {
-    "secret": "D:\\shopping\\shopping\\server\\config\\config.default.js",
-    "enable": "D:\\shopping\\shopping\\server\\node_modules\\_egg-jwt@3.1.6@egg-jwt\\config\\config.default.js"
+    "secret": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js",
+    "enable": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-jwt@3.1.6@egg-jwt\\config\\config.default.js"
   },
-  "url": "D:\\shopping\\shopping\\server\\config\\config.default.js",
-  "uploadDir": "D:\\shopping\\shopping\\server\\config\\config.default.js",
-  "secret": "D:\\shopping\\shopping\\server\\config\\config.default.js",
+  "url": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js",
+  "uploadDir": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js",
+  "secret": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\config\\config.default.js",
   "helper": {
-    "shtml": "D:\\shopping\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    "shtml": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
   },
   "jsonp": {
-    "limit": "D:\\shopping\\shopping\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
-    "callback": "D:\\shopping\\shopping\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
-    "csrf": "D:\\shopping\\shopping\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+    "limit": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "D:\\shopping\\shopping\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
-    "appErrorFilter": "D:\\shopping\\shopping\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
-    "templatePath": "D:\\shopping\\shopping\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+    "errorPageUrl": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
   },
   "i18n": {
-    "defaultLocale": "D:\\shopping\\shopping\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
-    "dirs": "D:\\shopping\\shopping\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
-    "queryField": "D:\\shopping\\shopping\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
-    "cookieField": "D:\\shopping\\shopping\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
-    "cookieDomain": "D:\\shopping\\shopping\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
-    "cookieMaxAge": "D:\\shopping\\shopping\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+    "defaultLocale": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
   },
   "watcher": {
-    "type": "D:\\shopping\\shopping\\server\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.local.js",
+    "type": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.local.js",
     "eventSources": {
-      "default": "D:\\shopping\\shopping\\server\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js",
-      "development": "D:\\shopping\\shopping\\server\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js"
+      "default": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js",
+      "development": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js"
     }
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "D:\\shopping\\shopping\\server\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js",
-      "file": "D:\\shopping\\shopping\\server\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+      "consoleLevel": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js",
+      "file": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
     }
   },
   "schedule": {
-    "directory": "D:\\shopping\\shopping\\server\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+    "directory": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
   },
   "multipart": {
-    "mode": "D:\\shopping\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
-    "autoFields": "D:\\shopping\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
-    "defaultCharset": "D:\\shopping\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
-    "fieldNameSize": "D:\\shopping\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
-    "fieldSize": "D:\\shopping\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
-    "fields": "D:\\shopping\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
-    "fileSize": "D:\\shopping\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
-    "files": "D:\\shopping\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
-    "fileExtensions": "D:\\shopping\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
-    "whitelist": "D:\\shopping\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
-    "tmpdir": "D:\\shopping\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "mode": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "autoFields": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "fieldSize": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "fields": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "fileSize": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "files": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "whitelist": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "tmpdir": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
     "cleanSchedule": {
-      "cron": "D:\\shopping\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js"
+      "cron": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js"
     }
   },
   "development": {
-    "watchDirs": "D:\\shopping\\shopping\\server\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
-    "ignoreDirs": "D:\\shopping\\shopping\\server\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
-    "fastReady": "D:\\shopping\\shopping\\server\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
-    "reloadOnDebug": "D:\\shopping\\shopping\\server\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
-    "overrideDefault": "D:\\shopping\\shopping\\server\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js"
+    "watchDirs": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "ignoreDirs": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "fastReady": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "overrideDefault": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js"
   },
   "logrotator": {
-    "filesRotateByHour": "D:\\shopping\\shopping\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "hourDelimiter": "D:\\shopping\\shopping\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "filesRotateBySize": "D:\\shopping\\shopping\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "maxFileSize": "D:\\shopping\\shopping\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "maxFiles": "D:\\shopping\\shopping\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "rotateDuration": "D:\\shopping\\shopping\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "maxDays": "D:\\shopping\\shopping\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+    "filesRotateByHour": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
   },
   "static": {
-    "prefix": "D:\\shopping\\shopping\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
-    "dir": "D:\\shopping\\shopping\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
-    "dynamic": "D:\\shopping\\shopping\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
-    "preload": "D:\\shopping\\shopping\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
-    "buffer": "D:\\shopping\\shopping\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
-    "maxFiles": "D:\\shopping\\shopping\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+    "prefix": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dir": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dynamic": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
   },
   "ejs": {
-    "root": "D:\\shopping\\shopping\\server\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.default.js",
-    "cache": "D:\\shopping\\shopping\\server\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.local.js",
-    "debug": "D:\\shopping\\shopping\\server\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.default.js",
-    "compileDebug": "D:\\shopping\\shopping\\server\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.default.js",
-    "delimiter": "D:\\shopping\\shopping\\server\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.default.js",
-    "strict": "D:\\shopping\\shopping\\server\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.default.js"
+    "root": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.default.js",
+    "cache": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.local.js",
+    "debug": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.default.js",
+    "compileDebug": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.default.js",
+    "delimiter": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.default.js",
+    "strict": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.default.js"
   },
-  "env": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-  "name": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-  "proxy": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-  "maxIpsCount": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-  "maxProxyCount": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-  "protocolHeaders": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-  "ipHeaders": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-  "hostHeaders": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "env": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "name": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "proxy": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "maxIpsCount": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "maxProxyCount": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "protocolHeaders": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "ipHeaders": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "hostHeaders": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
   "pkg": {
-    "name": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "version": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "description": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "private": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "name": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "version": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "description": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "private": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
     "dependencies": {
-      "egg": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "egg-cors": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "egg-jwt": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "egg-mongoose": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "egg-scripts": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "egg-view-ejs": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "md5": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "mz-modules": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "request": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "silly-datetime": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "svg-captcha": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+      "egg": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-cors": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-jwt": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-mongoose": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-scripts": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-view-ejs": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "md5": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "mz-modules": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "request": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "silly-datetime": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "svg-captcha": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
     },
     "devDependencies": {
-      "autod": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "autod-egg": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "egg-bin": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "egg-ci": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "egg-mock": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "eslint": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "eslint-config-egg": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "webstorm-disable-index": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+      "autod": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "autod-egg": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-bin": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-ci": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-mock": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "eslint": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "eslint-config-egg": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "webstorm-disable-index": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
     },
     "engines": {
-      "node": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+      "node": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
     },
     "scripts": {
-      "start": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "stop": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "dev": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "debug": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "test": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "test-local": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "cov": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "lint": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "ci": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "autod": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+      "start": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "stop": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "dev": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "debug": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "test": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "test-local": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "cov": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "lint": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "ci": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "autod": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
     },
     "ci": {
-      "version": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+      "version": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
     },
     "repository": {
-      "type": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "url": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+      "type": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "url": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
     },
-    "author": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "license": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    "author": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "license": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
   },
-  "baseDir": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-  "HOME": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-  "rundir": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "baseDir": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "HOME": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "rundir": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
   "dump": {
-    "ignore": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    "ignore": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "notFound": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "sitefile": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "middlewares": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "httpClient": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    "bodyparser": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "notFound": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "sitefile": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "middlewares": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "httpClient": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
   },
   "notfound": {
-    "pageUrl": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    "pageUrl": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    "/favicon.ico": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
   },
   "logger": {
-    "dir": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "encoding": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "env": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "level": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "consoleLevel": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "disableConsoleAfterReady": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "outputJSON": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "buffer": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "appLogName": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "coreLogName": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "agentLogName": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "errorLogName": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "dir": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "env": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "level": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "consoleLevel": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "outputJSON": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "buffer": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "appLogName": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "coreLogName": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "agentLogName": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "errorLogName": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
     "coreLogger": {
-      "consoleLevel": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.local.js"
+      "consoleLevel": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.local.js"
     },
-    "allowDebugAtProd": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    "allowDebugAtProd": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "dnsCacheLookupInterval": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "dnsCacheMaxLength": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "enableDNSCache": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
     "request": {
-      "timeout": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+      "timeout": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "freeSocketTimeout": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "maxSockets": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "maxFreeSockets": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+      "keepAlive": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "freeSocketTimeout": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "maxSockets": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-      "maxFreeSockets": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+      "keepAlive": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
     }
   },
   "meta": {
-    "enable": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "logging": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    "enable": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "logging": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
   },
-  "coreMiddleware": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-  "workerStartTimeout": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-  "serverTimeout": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "coreMiddleware": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "workerStartTimeout": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "serverTimeout": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
   "clusterClient": {
-    "maxWaitTime": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
-    "responseTimeout": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    "maxWaitTime": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "responseTimeout": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
   },
-  "onClientError": "D:\\shopping\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+  "onClientError": "C:\\Users\\Administrator\\Desktop\\shopping\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
 }
